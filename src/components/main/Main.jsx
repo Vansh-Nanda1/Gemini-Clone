@@ -86,11 +86,11 @@ const Main = () => {
         ) : (
           <div className="result">
             <div className="result-title">
-              <img src={assets.user} alt="" />
+              <img src={assets.user} alt="user" />
               <p>{recentPrompt}</p>
             </div>
             <div className="result-data">
-              <img src={assets.gemini_icon} alt="" />
+              <img src={assets.gemini_icon} alt="gemini_icon" />
               {loading ? (
                 <div className="loader">
                   <hr />
