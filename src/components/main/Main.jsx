@@ -42,8 +42,7 @@ const Main = () => {
                 }}
               >
                 <p >
-                  What are some essential skills for becoming a front-end
-                  developer?
+                Create a Script for the youtube video about coding 
                 </p>
                 <img src={assets.code_icon} alt="code_icon" />
               </div>
@@ -53,7 +52,7 @@ const Main = () => {
                   handleCardClick("Suggest Some Place To Visit In Punjab.")
                 }
               >
-                <p>Suggest Some Place To Visit In India.</p>
+                <p>Suggest Some Place To Visit In Punjab.</p>
                 <img src={assets.compass_icon} alt="compass_icon" />
               </div>
 
@@ -66,8 +65,7 @@ const Main = () => {
                 }
               >
                 <p>
-                  How do you create a responsive navbar using CSS and
-                  JavaScript?
+                Message to comfort a friend
                 </p>
                 <img src={assets.bulb_icon} alt="bulb_icon" />
               </div>
@@ -79,7 +77,7 @@ const Main = () => {
                   )
                 }
               >
-                <p>Explain the process of photosynthesis in simple terms </p>
+                <p>Quiz me on ancient civilizations</p>
                 <img src={assets.message_icon} alt="message_icon" />
               </div>
 
@@ -130,7 +128,7 @@ const Main = () => {
           </div>
           <div className="bottom-info">
             <p>
-              Gemini may display inaccurate info, including about people, so
+              Gemini 2.0 may display inaccurate info, including about people, so
               double-check its responses. Your privacy & Gemini Apps
             </p>
           </div>
